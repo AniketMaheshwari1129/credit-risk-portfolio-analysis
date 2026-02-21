@@ -1,7 +1,6 @@
-# credit-risk-portfolio-analysis
+# 📊credit-risk-portfolio-analysis
 End-to-end Credit Risk Analysis using SQL, Python, and Power BI
 
-📊 Credit Risk Portfolio Analysis
 🔹 Project Overview
 
 This end-to-end credit risk analysis project evaluates a loan portfolio to identify default patterns, exposure concentration, and high-risk segments.
